@@ -1,3 +1,2 @@
 Write ("hello");
 print ("what do you do")
-consol ()
